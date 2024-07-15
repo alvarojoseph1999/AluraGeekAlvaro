@@ -24,11 +24,7 @@ AluraGeek es una aplicación web que permite a los usuarios agregar y explorar u
     ```golpecito
     clon de git [https://github.com/alvarojoseph1999/AluraGeekAlvaro.git]
     ```
-2. Navegue hasta el directorio del proyecto:
-    ```golpecito
-    alurageek cd
-    ```
-3. Abra el archivo `index.html` en su navegador preferido.
+2. Abra el archivo `index.html` en su navegador preferido.
 
 
 <div align="centro">
