@@ -22,7 +22,7 @@ AluraGeek es una aplicación web que permite a los usuarios agregar y explorar u
 ## 📖 Cómo ejecutar el proyecto
 1. Clona este repositorio:
     ```golpecito
-    clon de git https://github.com/seu-usuario/alurageek.git
+    clon de git [https://github.com/alvarojoseph1999/AluraGeekAlvaro.git]
     ```
 2. Navegue hasta el directorio del proyecto:
     ```golpecito
